@@ -64,6 +64,7 @@ class PomodoroUI(QDialog):
 
 
 class ShortBreakUI(QDialog):
+    # Test commit - Adem
     def __init__(self):
         super(ShortBreakUI,self).__init__()
         loadUi("./UI/shortBreak.ui",self)
