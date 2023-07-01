@@ -209,6 +209,9 @@ border-radius:10px;
      <property name="text">
       <string/>
      </property>
+     <property name="placeholderText">
+      <string>  Lütfen geçerli bir mail adresi giriniz.</string>
+     </property>
     </widget>
     <widget class="QLabel" name="emailTextLabel">
      <property name="geometry">
@@ -273,7 +276,7 @@ border-radius:10px;
 color:red;</string>
      </property>
      <property name="text">
-      <string>error text</string>
+      <string/>
      </property>
     </widget>
     <widget class="QLabel" name="nameTextLabel">
@@ -315,6 +318,9 @@ border-radius:10px;
      </property>
      <property name="text">
       <string/>
+     </property>
+     <property name="placeholderText">
+      <string>  Lütfen isminizi giriniz.</string>
      </property>
     </widget>
    </widget>
@@ -376,6 +382,9 @@ border-radius:10px;
      </property>
      <property name="text">
       <string/>
+     </property>
+     <property name="placeholderText">
+      <string>  Lütfen geçerli bir email adresi giriniz.</string>
      </property>
     </widget>
     <widget class="QLabel" name="emailLabel">
@@ -441,7 +450,7 @@ border-radius:10px;
 color:black;</string>
      </property>
      <property name="text">
-      <string>error text</string>
+      <string/>
      </property>
     </widget>
    </widget>
